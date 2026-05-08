@@ -46,8 +46,8 @@
 
 // ---- OTA settings ----
 #define OTA_ENABLE     1                 // 1=enable OTA, 0=disable
-#define WIFI_SSID      "KT_GiGA_B6DA"
-#define WIFI_PASS      "f0gh02gj71"
+#define WIFI_SSID      "wifi name"
+#define WIFI_PASS      "wifi pw"
 #define OTA_HOSTNAME   "insole-c3"
 
 // ---- ESP-NOW settings ----
